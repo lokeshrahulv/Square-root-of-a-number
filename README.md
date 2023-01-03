@@ -32,7 +32,8 @@ print("Square root of the number:",my_method(a))
 ```
 
 ## Output:
-![output](/Screenshot%20(71).png)
+![Screenshot (83)](https://user-images.githubusercontent.com/118423842/210347446-d093eca7-ce93-46a9-b669-4a008f6f99e6.png)
+
 
 
 ## Result:
